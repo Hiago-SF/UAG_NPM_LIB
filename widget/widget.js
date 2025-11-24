@@ -29,7 +29,7 @@ function widget(key, draw) {
     }
 
     let image = image_set(key)
-    let imagemap = sample[image]
+    let imagemap = samples[image]
 
     /*
     if (image==0){  //pagina em branco

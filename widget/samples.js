@@ -1,5 +1,5 @@
 
-export default samples = [
+const samples = [
     [ //pagina em branco
         [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
         [0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0],
@@ -91,3 +91,5 @@ export default samples = [
         [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
     ]
 ]
+
+export default samples

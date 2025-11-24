@@ -1,5 +1,5 @@
 {
-  "name": "moduloexemplo01",
+  "name": "@hiago_silva10/uag",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -7,12 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "hiago_silva10",
   "license": "ISC",
-  "description": "",
+  "description": "Aqui iremos brincar de construir um módulo NodeJs público com o objetivo de todos poderem ter seus próprios módulos publicados e acrescentar visibilidade aos seus projetos.",
   "dependencies": {
     "@svgdotjs/svg.js": "^3.2.5",
     "jsdom": "^27.1.0",
     "svgdom": "^0.1.22"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiago-SF/UAG_NPM_LIB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hiago-SF/UAG_NPM_LIB/issues"
+  },
+  "homepage": "https://github.com/Hiago-SF/UAG_NPM_LIB#readme"
 }
