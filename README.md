@@ -1,3 +1,5 @@
+# Projeto de A3 UAG de computação grafica
+
 ## Como utilizar?
 
 Inicialize seu projeto com npm init -y, altere o package.json adicionando a linha "type": "module", e tente instalar seu módulo (pacote).
@@ -11,8 +13,6 @@ let svgText = lib.getSVG("ana123")
 console.log(svgText);
 ~~~
 
-
-# Projeto de A3 de computação grafica
 
 ## integrantes:
 
